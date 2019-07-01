@@ -12,7 +12,7 @@
 - Visual Studio 2019
   - たぶんC# 4.0以上でOK
 
-## Licence
+## License
 
 [MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
 
